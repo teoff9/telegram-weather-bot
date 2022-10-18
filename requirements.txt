@@ -1,0 +1,14 @@
+APScheduler
+cachetools
+certifi
+charset-normalizer
+idna
+python-telegram-bot
+pytz
+pytz-deprecation-shim
+requests
+six
+tornado
+tzdata
+tzlocal
+urllib3
